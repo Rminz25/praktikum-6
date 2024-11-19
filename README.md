@@ -1,4 +1,4 @@
-# Labpy.05/Pratikum05
+# Labpy.05/Pratikum06
 # NAMA  = RAIHAN MINHAZUL AFKAR
 # NIM   = 312410364
 # KELAS = TI.24.A4
